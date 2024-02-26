@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on [NHL-Team-Tracker (Different app name in the works)](https://github.com/rswagner13/NHL-Team-Tracker)
 
 - 🌱 I’m currently learning **Javascript, React, Bulma CSS Framework, and MongoDB**
+  
+- 💬 Ask me anything about: **Front-End Development, Running, Video Games, and Sports**
 
 - 📫 How to reach me **mourwagner13@gmail.com**
 
